@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Yassin Ahmed
+#  Hi there, I'm Yassin Ahmed
 
-### 🚀 DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast  
+###  DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast  
 
 I'm passionate about automating software delivery pipelines, managing infrastructure as code,  
 and working with cloud-native tools to streamline deployments and improve reliability.  
 
 Currently learning and working with:
-- 🧩 **Jenkins**, **Argo CD**, **Ansible**, **OpenShift**, **Jira**, and **AWS Cloud**
+- 🧩 **Jenkins**, **Argo CD**, **Ansible**, **OpenShift**, **Terraform**, **Jira**, and **AWS Cloud**
 - 🐳 Containerization & Orchestration (Docker, Kubernetes)
 - ☁️ Cloud technologies (AWS fundamentals)
 - 🧰 CI/CD pipelines, Git, and Linux system administration
@@ -26,6 +26,7 @@ Currently learning and working with:
 | Category | Tools / Skills |
 |-----------|----------------|
 | **CI/CD & Automation** | Jenkins · Argo CD · Ansible |
+| **Infrastructure as Code (IaC)** | Terraform |
 | **Containerization & Cloud** | Docker · Kubernetes · OpenShift · AWS Cloud |
 | **Project & Collaboration** | Jira · Git · GitHub |
 | **Operating Systems** | Linux (Ubuntu / Red Hat) |
@@ -38,7 +39,7 @@ Currently learning and working with:
 - 🧠 **Red Hat System Administration I & II**
 - 🚀 **Starting My DevOps Career Path**
 - ☁️ **Building Skills in AWS Cloud & Cloud Automation**
-- ⚙️ Focused on mastering **CI/CD**, **Cloud Automation**, and **Infrastructure as Code**
+- ⚙️ Focused on mastering **CI/CD**, **Terraform**, and **Infrastructure as Code**
 
 ---
 
